@@ -54,4 +54,4 @@ Each folder represents a core chapter of the project. Inside, markdown files doc
 
 ## Scenario Disclaimer
 
-All companies, departments, and names (e.g., **Primetech Solutions**) are fictional and used solely for scenario context. This project was executed using a **30-day Microsoft 365 Business Standard trial** environment; all tasks included here are feasible within that plan.
+All companies, departments, and names ( ex **Primetech Solutions**, **Alex Carter**) are fictional and used solely for scenario context. This project was executed using a **30-day Microsoft 365 Business Standard trial** environment; all tasks included here are feasible within that plan.
