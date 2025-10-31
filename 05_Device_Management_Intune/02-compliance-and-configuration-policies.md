@@ -2,7 +2,7 @@
 
 ## Scenario
 
-My Windows 11 VM is now successfully enrolled in Intune and has a proper name. However, just being enrolled isn't enough. I need to ensure it meets our company's security standards. My goal is to use Intune to define what a "healthy" and "secure" device looks like. I'll start by creating a **Compliance Policy**, which acts as a set of rules the device must follow to be considered compliant. If a device falls out of compliance, I can then create rules to, for example, block it from accessing company data.
+My Windows 10 VM is now successfully enrolled in Intune and has a proper name. However, just being enrolled isn't enough. I need to ensure it meets our company's security standards. My goal is to use Intune to define what a "healthy" and "secure" device looks like. I'll start by creating a **Compliance Policy**, which acts as a set of rules the device must follow to be considered compliant. If a device falls out of compliance, I can then create rules to, for example, block it from accessing company data.
 
 ## Ticket 1: Creating a Basic Windows Compliance Policy
 
