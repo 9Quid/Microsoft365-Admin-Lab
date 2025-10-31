@@ -113,5 +113,5 @@ I couldn't find an obvious banner in the portal prompting me to set the MDM auth
 ## Navigation
 
 - Previous: [Security & Compliance](../04_Security_and_Compliance/)
-- Next: [Reporting & Metrics](../06_Reporting_and_Metrics/)
+- Next: [Part 2: Compliance and Configuration Policies](./02-compliance-and-configuration-policies.md)
 - Back to Root: [README](../README.md)

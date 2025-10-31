@@ -75,6 +75,6 @@ Since I don't have a hardware vendor to upload device information for me, I will
 
 ## Navigation
 
-- Previous: [Security & Compliance](../04_Security_and_Compliance/)
-- Next: [Reporting & Metrics](../06_Reporting_and_Metrics/)
+- Previous: [Part 2: Compliance and Configuration Policies](./02-compliance-and-configuration-policies.md)
+- Next: [Part 4: Application Deployment](./04-application-deployment.md)
 - Back to Root: [README](../README.md)

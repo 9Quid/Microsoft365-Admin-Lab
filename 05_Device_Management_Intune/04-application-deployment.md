@@ -134,6 +134,5 @@ I will tackle two common and important scenarios:
 
 ## Navigation
 
-- Previous: [Security & Compliance](../04_Security_and_Compliance/)
-- Next: [Reporting & Metrics](../06_Reporting_and_Metrics/)
+- Previous: [Part 3: Windows Autopilot Setup](./03-windows-autopilot-setup.md)
 - Back to Root: [README](../README.md)

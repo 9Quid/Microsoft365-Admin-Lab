@@ -110,6 +110,6 @@ My Windows 11 VM is now successfully enrolled in Intune and has a proper name. H
 
 ## Navigation
 
-- Previous: [Security & Compliance](../04_Security_and_Compliance/)
-- Next: [Reporting & Metrics](../06_Reporting_and_Metrics/)
+- Previous: [Part 1: Setup and Enrollment](./01-intune-setup-and-enrollment.md)
+- Next: [Part 3: Windows Autopilot Setup](./03-windows-autopilot-setup.md)
 - Back to Root: [README](../README.md)
