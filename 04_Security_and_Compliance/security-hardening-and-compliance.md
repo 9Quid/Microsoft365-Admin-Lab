@@ -63,16 +63,16 @@ With our company's identity foundation in place, I was tasked by the CISO and de
 
 ![alt text](../assets/04-Security-and-Compliance/anti-spam-policy.png)
 
-**Update (2025-10-29): Secure Score Improvement**
+**Update (11/1/2025): Secure Score Improvement**
 
 - After implementing the email security policies from Tickets 2 and 3, and addressing several high-impact recommendations from the Secure Score dashboard, our score improved significantly. Key actions taken include:
   - Enabling Microsoft Entra ID Identity Protection for both sign-in and user risk.
   - Enforcing MFA for all users via Security Defaults.
   - Hardening anti-malware and anti-spam rules to quarantine threats.
-- As a result, our Microsoft Secure Score increased from a baseline of **37.06%** to **82.61%**.
-- Evidence: Microsoft 365 Defender > Secure score dashboard captured on 2025-10-29
+- As a result, our Microsoft Secure Score increased from a baseline of **37.06%** to **87.24%**.
+- Evidence: Microsoft 365 Defender > Secure score dashboard captured on 11/1/2025
 
-![alt text](../assets/04-Security-and-Compliance/current-ss.png)
+![alt text](../assets/04-Security-and-Compliance/current-secure-score.png)
 
 ## Navigation
 

@@ -9,7 +9,7 @@ This repository tells the story of that project. It's a step-by-step record of h
 ## Key Accomplishments
 
 - **Identity Foundation:** Established a full identity lifecycle process, including bulk user creation, group-based management, and delegated administration using role-assignable groups.
-- **Security Posture Hardening:** Increased the **Microsoft Secure Score from 37.06% to 82.61%** by implementing Conditional Access, MFA, and comprehensive email threat policies (anti-phishing, anti-malware, anti-spam).
+- **Security Posture Hardening:** Increased the **Microsoft Secure Score from 37.06% to 87.24%** by implementing Conditional Access, MFA, and comprehensive email threat policies (anti-phishing, anti-malware, anti-spam).
 - **Modern Device Management:** Successfully configured and executed a **zero-touch Windows Autopilot deployment**, allowing a new device to be provisioned automatically with all company policies and applications.
 - **Application Deployment at Scale:** Packaged and deployed critical third-party Win32 applications (Google Chrome, 7-Zip, Wireshark) and the Microsoft 365 Apps suite via Intune.
 
